@@ -1,0 +1,36 @@
+[submodule "TheAPIAwakens"]
+	path = TheAPIAwakens
+	url = git@github.com:thedan84/TheAPIAwakens.git
+[submodule "NASApp"]
+	path = NASApp
+	url = git@github.com:thedan84/NASApp.git
+[submodule "Amusement-Park-Pass-Generator"]
+	path = Amusement-Park-Pass-Generator
+	url = git@github.com:thedan84/Amusement-Park-Pass-Generator.git
+[submodule "Quiz"]
+	path = Quiz
+	url = git@github.com:thedan84/Quiz.git
+[submodule "Proximity-Reminders"]
+	path = Proximity-Reminders
+	url = git@github.com:thedan84/Proximity-Reminders.git
+[submodule "Movie-Night"]
+	path = Movie-Night
+	url = git@github.com:thedan84/Movie-Night.git
+[submodule "Soccer-League-Coordinator"]
+	path = Soccer-League-Coordinator
+	url = git@github.com:thedan84/Soccer-League-Coordinator.git
+[submodule "Bout-Time"]
+	path = Bout-Time
+	url = git@github.com:thedan84/Bout-Time.git
+[submodule "Movie-Favorites"]
+	path = Movie-Favorites
+	url = git@github.com:thedan84/Movie-Favorites.git
+[submodule "My-Diary"]
+	path = My-Diary
+	url = git@github.com:thedan84/My-Diary.git
+[submodule "Park-Pass"]
+	path = Park-Pass
+	url = git@github.com:thedan84/Park-Pass.git
+[submodule "Ribbit"]
+	path = Ribbit
+	url = git@github.com:thedan84/Ribbit.git
